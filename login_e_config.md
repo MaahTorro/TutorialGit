@@ -15,7 +15,7 @@ git config --global user.name "Marcela Torro"
 
 O seguinte comando configura o email do autor para o git:
 ```shell
-git config --global user.email marcelatorro@gmail.com
+git config --global user.email marcelatorro6@gmail.com
 ```
 
 ### Login e Senha ou Chave SSH
